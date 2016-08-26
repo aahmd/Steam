@@ -5,9 +5,9 @@ Adam Ahmed & Alex Marr
 ###Analyzing Game reviews on Steam
 
 
-The Steam Store is a great source of user generated reviews (on video games).  For example, the game CounterStrike: Global Offensive currently has ~1.3M reviews accumulted over the years.  While some range from the comment 'get rekt' others are more useful, and have lengthy evaluations of the games, from in many cases, experienced players that are arguably well-suited to do so.
+The Steam Store is a great source of user generated reviews.  For example, the game CounterStrike: Global Offensive has accumulated ~1.3M reviews over the years.  While some range from the comment 'get rekt' others are more useful, and have lengthy evaluations of the games from, in many cases, experienced players that are arguably well-suited to do so.
 
-In the intial phase, we will focus on buidling a scraper that will return ALL reviews for a given game(s), in order to leverage the size of the data.  After mining, and some likely substanial data cleaning, the next steps will involve Natural Langugage Processiing, NLP. 
+In the intial phase, we will focus on buidling a scraper that will return ALL reviews for a given game(s), in order to leverage the size of the data.  After mining, and some likely substanial data cleaning, the next steps will involve Natural Langugage Processiing (NLP). 
 
 ###Some questions we may be able to answer:
 
